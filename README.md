@@ -8,4 +8,4 @@ To make the program look nicer, I will be making changes such as the use of poin
 
 Below is the bracket my program created.
 
-![alt text](my_braceket.png "My Awful Bracket")
+![My Bracket](Images/my_bracket.png)
