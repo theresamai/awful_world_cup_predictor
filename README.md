@@ -1,0 +1,1 @@
+# awful_world_cup_predictor
